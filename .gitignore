@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Files_to_ignore
+>>>>>>> 4a9ef54 (adding file)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
